@@ -6,7 +6,7 @@ I'm Sonsori Abdul-Wasiu Issah, a backend-focused software engineering student in
 
 ## 🧐 About
 - 🎓 First-year B.Sc. Computer Science student at KNUST (Class of 2029), Ghana
-- 💻 Focused on backend engineering — APIs, databases, distributed systems, cloud infrastructure
+- 💻 Focused on backend engineering  APIs, databases, distributed systems, cloud infrastructure
 - 🏦 Particularly interested in fintech and event-driven architectures
 - 🐍 Primary stack: Python, FastAPI (also worked with Flask and Django)
 - 🌱 Currently building LedgerCore, a distributed double-entry ledger and settlement system
